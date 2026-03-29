@@ -19,7 +19,7 @@ This project demonstrates a simple multi-agent workflow using **LangGraph**. It 
 2. **General Physician Node** -> **Cardiologist Node**: The cardiologist receives the patient's state, performs an examination, and records notes (e.g., blood pressure, medication needs).
 3. **Cardiologist Node** -> **Surgeon Node**: Finally, the surgeon examines the patient and records notes for further procedure (e.g., surgery).
 4. **Surgeon Node** -> **END**: The workflow concludes, yielding the final consolidated patient state.
-
+![img.png](img.png)
 ## Project Structure
 
 ```text
