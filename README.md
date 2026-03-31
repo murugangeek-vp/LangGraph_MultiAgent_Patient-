@@ -1,4 +1,5 @@
 # LangGraph Multi-Agent Patient Evolution
+<img width="1242" height="682" alt="image" src="https://github.com/user-attachments/assets/d05c8eec-984c-40fe-b821-5aff27c2042f" />
 
 This project demonstrates a simple multi-agent workflow using **LangGraph**. It models a patient evaluation process where a patient is sequentially examined by different specialists: a general physician, a cardiologist, and a surgeon. The state of the patient, including notes from each specialist, is passed along the graph nodes to simulate an evolving medical diagnosis workflow.
 
